@@ -14,7 +14,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghost-Black777&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ghost-Black777&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ghost-Black777&theme=radical)
 
 [![](https://visitcount.itsvg.in/api?id=Ghost-Black777&icon=0&color=4)](https://visitcount.itsvg.in)
 

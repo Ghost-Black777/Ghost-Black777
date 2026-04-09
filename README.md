@@ -9,7 +9,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-activity-graph.vercel.app/graph?username=Ghost-Black777&bg_color=0d1117&color=ff0033&line=ff0033&point=ffffff&area=true&hide_border=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Ghost-Black777&bg_color=0d1117&color=ff0033&line=ff0033&point=ffffff&area=true&area_color=ff0033&hide_border=true)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Ghost-Black777&background=0d1117&ring=ff0033&fire=ff0033&currStreakLabel=ff0033&sideLabels=ffffff&dates=ffffff&hide_border=true)
 

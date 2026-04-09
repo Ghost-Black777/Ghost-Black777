@@ -17,8 +17,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ghost-Black777&theme=github_dark)
 
-![C](https://img.shields.io/badge/C-0d1117?style=flat&logo=c&logoColor=ff0033).
-
 [![](https://visitcount.itsvg.in/api?id=Ghost-Black777&icon=0&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

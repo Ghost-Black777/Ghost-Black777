@@ -10,6 +10,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ghost-Black777&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
+![](https://github-readme-stats.vercel.app/api?username=Ghost-Black777&bg_color=0d1117&title_color=ff0033&text_color=ffffff&icon_color=ff0033&hide_border=true&include_all_commits=true&count_private=true)
+
 ![](https://nirzak-streak-stats.vercel.app/?user=Ghost-Black777&theme=radical&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghost-Black777&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)

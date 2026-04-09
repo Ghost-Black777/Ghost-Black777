@@ -8,12 +8,14 @@
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ghost-Black777&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ghost-Black777&theme=shadow_red&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Ghost-Black777&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Ghost-Black777&theme=shadow_red&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghost-Black777&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ghost-Black777&theme=github_dark)
+
 [![](https://visitcount.itsvg.in/api?id=Ghost-Black777&icon=0&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)

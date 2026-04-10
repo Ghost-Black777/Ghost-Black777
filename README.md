@@ -2,7 +2,7 @@
 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas.<br>Apaixonado por tecnologia e programação,<br>em busca de aprender e evoluir a cada projeto. <br>☕ ζ͜͡𝕲𝖍𝖔𝖘𝖙 𔓎 🤘
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/738780e0-8bc2-47c2-ba1f-b018a1b2bffb" width="300" height="100000" alt="Hacker GIF Esticado">
+  <img src="https://github.com/user-attachments/assets/738780e0-8bc2-47c2-ba1f-b018a1b2bffb" width="400" height="100000" alt="Hacker GIF Esticado">
 </div>
 
 # 💻 Tech Stack:

@@ -1,6 +1,8 @@
 # 💫 About Me:
 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas.<br>Apaixonado por tecnologia e programação,<br>em busca de aprender e evoluir a cada projeto. <br>☕ ζ͜͡𝕲𝖍𝖔𝖘𝖙 𔓎 🤘
-
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400">
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hugo-felipe-952bbb2a9?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
@@ -20,6 +22,4 @@
 [![](https://visitcount.itsvg.in/api?id=Ghost-Black777&icon=0&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400">
-</p>
+

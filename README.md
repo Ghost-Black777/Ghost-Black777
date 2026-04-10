@@ -3,7 +3,8 @@
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/738780e0-8bc2-47c2-ba1f-b018a1b2bffb" width = "500" height= "200" alt="Hacker GIF Esticado">
-</div>
+</div> <br> ![701f1de4e4c328cd764640d6e6afca67](https://github.com/user-attachments/assets/06c53ec9-d55a-49d0-a10a-05ca084df642)
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)

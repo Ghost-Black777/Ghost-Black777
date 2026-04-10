@@ -3,10 +3,9 @@
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/db03673e-b896-4cca-9416-4dbbba2bb7fc" width="45%">
-  <img src="https://github.com/user-attachments/assets/696203fc-af2e-4eb8-bba6-ebb09a2645d8" width="45%">
 </div>
 
-![45926407d771ede425af70370b8bd99f](https://github.com/user-attachments/assets/e1b8bb4b-a541-420b-be8e-2a117f8749dd)
+
 
 
 # 💻 Tech Stack:

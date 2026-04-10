@@ -1,6 +1,6 @@
 # 💫 About Me:
 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas.<br>Apaixonado por tecnologia e programação,<br>em busca de aprender e evoluir a cada projeto. <br>☕ ζ͜͡𝕲𝖍𝖔𝖘𝖙 𔓎 🤘
-
+<img src="https://media1.tenor.com/m/4-PCRgcfXH8AAAAC/programming-hacker.gif" width="300" alt="Hacker Programming">
 
 
 # 💻 Tech Stack:
@@ -18,6 +18,4 @@
 [![](https://visitcount.itsvg.in/api?id=Ghost-Black777&icon=0&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<img width="498" height="264" alt="image" src="https://github.com/user-attachments/assets/72018953-62a6-43ae-9119-1811fb33d3e1" />
 

@@ -19,5 +19,5 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-https://media1.tenor.com/m/4-PCRgcfXH8AAAAC/programming-hacker.gif
+<img width="498" height="264" alt="image" src="https://github.com/user-attachments/assets/72018953-62a6-43ae-9119-1811fb33d3e1" />
 

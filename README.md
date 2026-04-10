@@ -6,6 +6,9 @@
    <img src="https://github.com/user-attachments/assets/738780e0-8bc2-47c2-ba1f-b018a1b2bffb" width= "45%" height="169" alt="Hacker GIF Esticado">
 </div>
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hugo-felipe-952bbb2a9?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
+
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 
@@ -22,7 +25,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <img src="https://media1.tenor.com/m/4-PCRgcfXH8AAAAC/programming-hacker.gif" width="700" alt="Hacker Programming">
-
-
-
 

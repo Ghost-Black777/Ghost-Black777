@@ -1,7 +1,7 @@
 # 💫 About Me:
 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas.<br>Apaixonado por tecnologia e programação,<br>em busca de aprender e evoluir a cada projeto. <br>☕ ζ͜͡𝕲𝖍𝖔𝖘𝖙 𔓎 🤘
 
-
+<img width="1198" height="617" alt="image" src="https://github.com/user-attachments/assets/ac6dcfa0-599d-43f4-b0af-0f602170a597" />
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hugo-felipe-952bbb2a9?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
 

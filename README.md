@@ -3,7 +3,9 @@
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/738780e0-8bc2-47c2-ba1f-b018a1b2bffb" width = "500" height= "200" alt="Hacker GIF Esticado">
-</div> <br> ![701f1de4e4c328cd764640d6e6afca67](https://github.com/user-attachments/assets/06c53ec9-d55a-49d0-a10a-05ca084df642)
+</div> 
+
+![701f1de4e4c328cd764640d6e6afca67](https://github.com/user-attachments/assets/db03673e-b896-4cca-9416-4dbbba2bb7fc)
 
 
 # 💻 Tech Stack:

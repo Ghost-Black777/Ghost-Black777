@@ -1,7 +1,8 @@
 # 💫 About Me:
 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas.<br>Apaixonado por tecnologia e programação,<br>em busca de aprender e evoluir a cada projeto. <br>☕ ζ͜͡𝕲𝖍𝖔𝖘𝖙 𔓎 🤘
 
-![15f0729d004bbf7ecea976b38a1fd8cb](https://github.com/user-attachments/assets/b00d8d21-71cb-4941-9b83-c09551dfb066)
+![18ab473bfc12c28bda2631d66b101e3b](https://github.com/user-attachments/assets/738780e0-8bc2-47c2-ba1f-b018a1b2bffb)
+
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 

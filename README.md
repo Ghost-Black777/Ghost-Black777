@@ -2,7 +2,7 @@
 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas.<br>Apaixonado por tecnologia e programação,<br>em busca de aprender e evoluir a cada projeto. <br>☕ ζ͜͡𝕲𝖍𝖔𝖘𝖙 𔓎 🤘
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/db03673e-b896-4cca-9416-4dbbba2bb7fc" width="45%">
+  <img src="https://github.com/user-attachments/assets/db03673e-b896-4cca-9416-4dbbba2bb7fc" width="100%">
 </div>
 
 
